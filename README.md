@@ -13,7 +13,7 @@ XOR_LSB_Stego is a Python-based implementation of a novel image steganography te
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/JustinPack/XOR_LSB_Stego.git
+   git clone https://github.com/JustinPack/XOR_LSB_Stego-Unicode.git
    ```
 2. Navigate to the cloned directory:
    ```
@@ -57,5 +57,3 @@ Feel free to contribute to this project by submitting pull requests or opening i
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-Huge shout out to [@tapatiohaxx](https://github.com/tapatiohaxx) for the initial UI and the inspiration to complete this script, as well as a special thanks to the authors of the paper for their groundbreaking work in the field of image steganography.
