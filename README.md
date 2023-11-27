@@ -13,7 +13,7 @@ XOR_LSB_Stego is a Python-based implementation of a novel image steganography te
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/JustinPack/XOR_LSB_Stego-Unicode.git
+   git clone https://github.com/tapatiohaxx/XOR_LSB_Stego-Unicode.git
    ```
 2. Navigate to the cloned directory:
    ```
@@ -35,10 +35,10 @@ python xorsteg.py
 ### Example Usage
 
 #### Embedding Data
-<img src="Examples/embedding_example.png" width="300" />
+<img src="Examples/embedding-regular.png" width="300" />
 
 #### Extracting Data
-<img src="Examples/extraction_example.png" width="300" />
+<img src="Examples/extraction-regular.png" width="300" />
 
 
 ## Methodology
