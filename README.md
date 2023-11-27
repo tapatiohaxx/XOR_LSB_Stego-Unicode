@@ -58,5 +58,5 @@ Feel free to contribute to this project by submitting pull requests or opening i
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Special Thanks
-I'd like to give a very special thanks to [JustinPack][https://github.com/JustinPack] for helping to develop tunctional extraction and embedding logic. Also, I'd like to thank [Mark Tolonen][https://stackoverflow.com/users/235698/mark-tolonen] for giving the hint for solving a longstanding issue with embedding and extracting Unicode characters.
+I'd like to give a very special thanks to [JustinPack](https://github.com/JustinPack) for helping to develop tunctional extraction and embedding logic. Also, I'd like to thank [Mark Tolonen](https://stackoverflow.com/users/235698/mark-tolonen) for giving the hint for solving a longstanding issue with embedding and extracting Unicode characters.
 
